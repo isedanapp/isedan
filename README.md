@@ -5,5 +5,12 @@ The #1 Ghana Stock Exchange Stock Tracker 📊
 This repository is for submission and tracking of issues found on isedan
 - Create an issue and include detailed description and how to recreate it
 
-## Collaboration
-Reach out to our team on support@isedan.app
+## Contact Information
+#### Support & General Inquiries
+support@isedan.app
+
+#### Partnerships & Institutional Use
+business@isedan.app
+
+#### Legal & Compliance
+legal@isedan.app

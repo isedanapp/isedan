@@ -5,6 +5,8 @@ The #1 Ghana Stock Exchange Stock Tracker 📊.
 
 📱 iOS: https://apps.apple.com/us/app/isedan-ghana-stocks-tracker/id6773407206
 
+💻 Windows: https://apps.microsoft.com/detail/9nfkvlwkpsd0
+
 💻 Web: https://isedan.app
 
 ## Issues
